@@ -2,6 +2,11 @@
 
 Please run the code in the PyCitySchools.ipynb file and below results will be populated.
 
+Observational trends:
+1. Independent schools have a higher overall passing % compared to government schools. This is shown in Top Performing Schools (By % Overall Passing) table as 3 out of 5 schools in the table are independent schools. Also, in the Scores by School Type table it shows that % Overall Passing in independent schools is 76.97% compared to 70.70% in government schools.
+2. Also, % of students passing maths is greater accross all types of schools compared % of students passing reading. This trend is showed in School Summary DataFrame.
+3. We can also soo that as per Scores by School Spending DataFrame, schools with Spending Ranges (Per Student) of less than $630 have a higher overall passing % .
+
 Local Government Area Summary
 
 ![image](https://user-images.githubusercontent.com/107616415/187861152-5fbcd830-6553-4fa5-9b6a-716a6c43747f.png)
